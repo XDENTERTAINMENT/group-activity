@@ -624,10 +624,4 @@ generateUsername();
   //     javascript brings your ideas to live through codes
     //  3  for reusability because it help to reuse component where ever it is need the 
     //  the program instead of writing the whole block of code in one function
-    //  4  so firstly we should properly examines the code making sure that the syntax are followed
-      //  5// i feel more confident on the loops and function but feels shaky on conditional and ternary operation
-
-
-      // part2
-
-      
+     4  so firstly we should properly examine the code making sure that the syntax are followed

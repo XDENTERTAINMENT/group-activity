@@ -629,5 +629,3 @@ generateUsername();
 
 
       // part2
-
-      

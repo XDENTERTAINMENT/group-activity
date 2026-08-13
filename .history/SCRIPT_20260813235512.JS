@@ -628,6 +628,4 @@ generateUsername();
       //  5// i feel more confident on the loops and function but feels shaky on conditional and ternary operation
 
 
-      // part2
-
-      
+      part
