@@ -1,0 +1,7 @@
+        // loops
+
+        // for()
+
+            const name = () {
+                    
+            }
